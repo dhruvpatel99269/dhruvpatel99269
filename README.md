@@ -23,10 +23,11 @@ React.js, Next.js, Vite, Node.js, Express.js, Java, C++, Python, Docker, CI/CD p
 🛠️ **Dev Stack:**  
 Frontend, Backend, DevOps, Database, and Deployment — I build it all.
 
-⚙️ **Currently Working On:**
-- 🛰️ A Warehouse Surveillance Platform (IoT + Web)
-- 📅 An Event Management WebApp
-- 🧪 Several Personal Projects (microservices, AI integration, and more)
+⚙️ **Currently Exploring:**
+- 🧩 Microservices Architecture — scalable, decoupled system design
+- 🛠️ DevOps Practices — CI/CD pipelines, Dockerization, infrastructure as code
+- 🧠 AI Integrations — building intelligent, adaptive solutions
+- 🌱 Spring Boot — crafting secure and efficient backend services
 
 🌱 Always learning: distributed systems, AI workflows, performance tuning, and edge computing.
 
