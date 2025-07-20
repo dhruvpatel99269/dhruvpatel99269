@@ -1,49 +1,75 @@
-# 👋 Hi there, I'm Dhruv Patel!
+<h1 align="center">Hi, I'm Dhruv Patel 👋</h1>
 
-🚀 Full Stack Developer | Problem Solver | Tech Explorer
+<p align="center">
+  🚀 Full Stack Developer • DevOps Enthusiast • Microservices Architect<br>
+  <i>“Turning ideas into scalable solutions — one commit at a time.”</i>
+</p>
 
-I'm a passionate and self-driven **Full Stack Developer** with hands-on experience building scalable web applications and systems using the latest technologies. Whether it’s crafting interactive UIs with React or designing robust microservices in Node.js & Java — I do it all with code and caffeine ☕.
-
----
-
-### 🔧 Technologies & Tools I Use
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,docker,java,cpp,python,git,github,vscode,figma" alt="skills" />
-
----
-
-### 💼 What I'm Working On
-
-- 🛰️ **Warehouse Surveillance System** — Combining IoT & AI for smart monitoring  
-- 📅 **Event Management Website** — Smooth event handling, built with full-stack love  
-- 🌱 **Personal Projects** — Exploring microservices, CI/CD, and cloud deployment
+<p align="center">
+  <a href="https://dhruv-portfolio-two.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-%2300C896?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhruv-patel-dp99269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dhruv%20Patel-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:99269dhruvpatel@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+## 🧑‍💻 About Me
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruv99269&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv99269&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhruv99269&theme=tokyonight)](https://git.io/streak-stats)
+🎯 I'm a **Full Stack Developer** with a knack for solving real-world problems using clean code and modern architectures.
 
----
+💼 **Proficient in:**  
+React.js, Next.js, Vite, Node.js, Express.js, Java, C++, Python, Docker, CI/CD pipelines, and Microservices.
 
-### 📫 Let's Connect!
+🛠️ **Dev Stack:**  
+Frontend, Backend, DevOps, Database, and Deployment — I build it all.
 
-- 🌐 Portfolio: [dhruv-portfolio-two.vercel.app](https://dhruv-portfolio-two.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/dhruv-patel-dp99269](https://www.linkedin.com/in/dhruv-patel-dp99269/)
-- 📧 Email: [99269dhruvpatel@gmail.com](mailto:99269dhruvpatel@gmail.com)
+⚙️ **Currently Working On:**
+- 🛰️ A Warehouse Surveillance Platform (IoT + Web)
+- 📅 An Event Management WebApp
+- 🧪 Several Personal Projects (microservices, AI integration, and more)
 
----
-
-### ⚡ Fun Facts About Me
-
-- 💡 I automate boring stuff with code.
-- 🛠️ I break things to fix them better.
-- 🧠 I love learning new tech and frameworks.
-- 🎮 Gaming and tech YouTube videos are my creative escape.
+🌱 Always learning: distributed systems, AI workflows, performance tuning, and edge computing.
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dhruv99269.dhruv99269)
+## 🔧 Tech Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,docker,vite,java,cpp,python,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruv99269&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv99269&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dhruv99269&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let's Connect & Collaborate!
+
+- 🔗 **Portfolio**: [dhruv-portfolio-two.vercel.app](https://dhruv-portfolio-two.vercel.app/)
+- 💼 **LinkedIn**: [linkedin.com/in/dhruv-patel-dp99269](https://www.linkedin.com/in/dhruv-patel-dp99269/)
+- 📧 **Email**: [99269dhruvpatel@gmail.com](mailto:99269dhruvpatel@gmail.com)
+
+---
+
+## ⚡ Fun Bytes
+
+- 💡 I automate boring stuff to make life easier.
+- ☕ My code runs better with coffee.
+- 🎯 I'm obsessed with clean architecture and performance optimization.
+- 🎮 Gamer. Tinkerer. Lifelong learner.
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruv99269.dhruv99269" />
+</p>
