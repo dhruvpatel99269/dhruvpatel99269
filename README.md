@@ -35,7 +35,7 @@ Frontend, Backend, DevOps, Database, and Deployment — I build it all.
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,docker,vite,java,cpp,python,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,docker,vite,java,cpp,python,git,github,vscode,mongodb,mysql" />
 </p>
 
 ---
