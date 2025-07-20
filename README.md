@@ -48,7 +48,7 @@ Frontend, Backend, DevOps, Database, and Deployment — I build it all.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruv99269&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=dhruvpatel99269&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
