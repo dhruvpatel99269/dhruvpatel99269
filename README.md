@@ -6,8 +6,6 @@
   </a>
 </p>
 
-
-
 <p align="center">
   🚀 Full Stack Developer • DevOps Enthusiast • Microservices Architect<br>
   <i>“Turning ideas into scalable solutions — one commit at a time.”</i>
