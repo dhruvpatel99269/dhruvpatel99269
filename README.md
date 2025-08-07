@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Dhruv Patel 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=Hi%2C+I'm+Dhruv+Patel!;Full-Stack+Developer+%7C+Tech+Enthusiast;Building+Web+Apps+%26+Digital+Experiences;Always+Learning+%26+Exploring+New+Tech" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   🚀 Full Stack Developer • DevOps Enthusiast • Microservices Architect<br>
   <i>“Turning ideas into scalable solutions — one commit at a time.”</i>
 </p>
