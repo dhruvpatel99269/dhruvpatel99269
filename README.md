@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Dhruv Patel 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="center">
   🚀 Full Stack Developer • DevOps Enthusiast • Microservices Architect<br>
   <i>“Turning ideas into scalable solutions — one commit at a time.”</i>
