@@ -48,10 +48,6 @@ Frontend, Backend, DevOps, Database, and Deployment — I build it all.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpatel99269&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhruvpatel99269&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🌐 Let's Connect & Collaborate!
